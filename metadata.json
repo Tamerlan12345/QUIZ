@@ -1,0 +1,6 @@
+
+{
+  "name": "Agreement Generator v5.2",
+  "description": "A web application for automatically generating supplementary agreements for insurance contracts. The user can interactively enter data and receive a legally correct text, with a cyberpunk-themed interface.",
+  "requestFramePermissions": []
+}
